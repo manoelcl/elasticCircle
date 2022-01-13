@@ -1,3 +1,7 @@
+//Elastic sphere
+//Created by Manoel Castro
+//Youtube: https://youtu.be/W5EcMR4eYC4
+
 let cx;
 let cy;
 let c2x;
